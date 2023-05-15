@@ -1,2 +1,0 @@
-0    39.820474
-Name: Percent of Resident Workforce, dtype: float64This is the percent of workers living in the primary geography that work in Sumner County.

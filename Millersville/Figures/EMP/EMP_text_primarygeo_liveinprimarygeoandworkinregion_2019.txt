@@ -1,2 +1,0 @@
-0    91.501146
-Name: Percent of Resident Workforce, dtype: float64This is the percent of workers living in the primary geography that work in the 14 county region.
