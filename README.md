@@ -22,4 +22,4 @@ This is a template for recreating the materials associated with our Planning Dep
 
 ### Server Location  
 
-For figure guides and figure folders for each plan: G:\DATA\REQUESTS_CLIENTS\GNRC\20230109_CompPlanStats
+For figure guides and figure folders for each plan: G:\DATA\REQUESTS_CLIENTS\GNRC\20230109_CompPlanStats  
