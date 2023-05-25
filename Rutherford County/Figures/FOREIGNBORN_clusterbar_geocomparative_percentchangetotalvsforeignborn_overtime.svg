@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-05-16T11:17:12.907599</dc:date>
+    <dc:date>2023-05-19T10:41:22.830545</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -31,11 +31,11 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 74.053438 241.629417 
-L 605.659531 241.629417 
+    <path d="M 74.053438 213.939116 
+L 605.659531 213.939116 
 L 605.659531 39.442812 
 L 74.053438 39.442812 
-L 74.053438 241.629417 
+L 74.053438 213.939116 
 z
 " style="fill: none"/>
    </g>
@@ -43,17 +43,17 @@ z
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path id="m27e2ee7e07" d="M 0 0 
+       <path id="m2dc123307e" d="M 0 0 
 L 0 8 
 " style="stroke: #7b7e85; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m27e2ee7e07" x="120.184545" y="241.629417" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m2dc123307e" x="117.65958" y="213.939116" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
-      <!-- Rutherford County -->
-      <g style="fill: #7b7e85" transform="translate(92.567771 317.614131) rotate(-45) scale(0.11 -0.11)">
+      <!-- Rutherford Unincorporated -->
+      <g style="fill: #7b7e85" transform="translate(76.197656 317.614131) rotate(-45) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-52" d="M 3234 81 
 Q 3234 56 3225 37 
@@ -490,6 +490,318 @@ L 2369 2056
 z
 " transform="scale(0.015625)"/>
         <path id="Calibri-20" transform="scale(0.015625)"/>
+        <path id="Calibri-55" d="M 3578 1494 
+Q 3578 1125 3470 836 
+Q 3363 547 3163 347 
+Q 2963 147 2675 44 
+Q 2388 -59 2022 -59 
+Q 1688 -59 1413 37 
+Q 1138 134 941 323 
+Q 744 513 637 797 
+Q 531 1081 531 1453 
+L 531 3963 
+Q 531 3988 543 4006 
+Q 556 4025 587 4036 
+Q 619 4047 669 4055 
+Q 719 4063 800 4063 
+Q 875 4063 928 4055 
+Q 981 4047 1011 4036 
+Q 1041 4025 1053 4006 
+Q 1066 3988 1066 3963 
+L 1066 1519 
+Q 1066 1238 1134 1028 
+Q 1203 819 1333 680 
+Q 1463 541 1645 470 
+Q 1828 400 2056 400 
+Q 2291 400 2473 469 
+Q 2656 538 2782 675 
+Q 2909 813 2976 1016 
+Q 3044 1219 3044 1491 
+L 3044 3963 
+Q 3044 3988 3056 4006 
+Q 3069 4025 3100 4036 
+Q 3131 4047 3182 4055 
+Q 3234 4063 3313 4063 
+Q 3388 4063 3439 4055 
+Q 3491 4047 3520 4036 
+Q 3550 4025 3564 4006 
+Q 3578 3988 3578 3963 
+L 3578 1494 
+z
+" transform="scale(0.015625)"/>
+        <path id="Calibri-6e" d="M 2900 78 
+Q 2900 53 2887 36 
+Q 2875 19 2847 6 
+Q 2819 -6 2769 -12 
+Q 2719 -19 2644 -19 
+Q 2566 -19 2516 -12 
+Q 2466 -6 2437 6 
+Q 2409 19 2396 36 
+Q 2384 53 2384 78 
+L 2384 1725 
+Q 2384 1966 2346 2112 
+Q 2309 2259 2237 2365 
+Q 2166 2472 2052 2528 
+Q 1938 2584 1788 2584 
+Q 1594 2584 1400 2446 
+Q 1206 2309 994 2044 
+L 994 78 
+Q 994 53 981 36 
+Q 969 19 941 6 
+Q 913 -6 863 -12 
+Q 813 -19 734 -19 
+Q 659 -19 609 -12 
+Q 559 -6 529 6 
+Q 500 19 489 36 
+Q 478 53 478 78 
+L 478 2891 
+Q 478 2916 487 2933 
+Q 497 2950 525 2964 
+Q 553 2978 597 2983 
+Q 641 2988 713 2988 
+Q 781 2988 826 2983 
+Q 872 2978 897 2964 
+Q 922 2950 933 2933 
+Q 944 2916 944 2891 
+L 944 2519 
+Q 1181 2784 1417 2907 
+Q 1653 3031 1894 3031 
+Q 2175 3031 2367 2936 
+Q 2559 2841 2678 2681 
+Q 2797 2522 2848 2308 
+Q 2900 2094 2900 1794 
+L 2900 78 
+z
+" transform="scale(0.015625)"/>
+        <path id="Calibri-69" d="M 994 78 
+Q 994 53 981 36 
+Q 969 19 941 6 
+Q 913 -6 863 -12 
+Q 813 -19 734 -19 
+Q 659 -19 609 -12 
+Q 559 -6 529 6 
+Q 500 19 489 36 
+Q 478 53 478 78 
+L 478 2891 
+Q 478 2913 489 2931 
+Q 500 2950 529 2962 
+Q 559 2975 609 2981 
+Q 659 2988 734 2988 
+Q 813 2988 863 2981 
+Q 913 2975 941 2962 
+Q 969 2950 981 2931 
+Q 994 2913 994 2891 
+L 994 78 
+z
+M 1053 3841 
+Q 1053 3659 984 3593 
+Q 916 3528 731 3528 
+Q 550 3528 483 3592 
+Q 416 3656 416 3834 
+Q 416 4016 484 4081 
+Q 553 4147 738 4147 
+Q 919 4147 986 4083 
+Q 1053 4019 1053 3841 
+z
+" transform="scale(0.015625)"/>
+        <path id="Calibri-63" d="M 2500 506 
+Q 2500 453 2497 414 
+Q 2494 375 2486 348 
+Q 2478 322 2467 301 
+Q 2456 281 2417 242 
+Q 2378 203 2284 145 
+Q 2191 88 2073 42 
+Q 1956 -3 1818 -31 
+Q 1681 -59 1534 -59 
+Q 1231 -59 997 41 
+Q 763 141 605 333 
+Q 447 525 364 804 
+Q 281 1084 281 1450 
+Q 281 1866 382 2164 
+Q 484 2463 661 2653 
+Q 838 2844 1077 2936 
+Q 1316 3028 1594 3028 
+Q 1728 3028 1854 3003 
+Q 1981 2978 2087 2937 
+Q 2194 2897 2276 2844 
+Q 2359 2791 2396 2753 
+Q 2434 2716 2448 2694 
+Q 2463 2672 2472 2642 
+Q 2481 2613 2484 2575 
+Q 2488 2538 2488 2481 
+Q 2488 2359 2459 2311 
+Q 2431 2263 2391 2263 
+Q 2344 2263 2283 2314 
+Q 2222 2366 2128 2428 
+Q 2034 2491 1901 2542 
+Q 1769 2594 1588 2594 
+Q 1216 2594 1017 2308 
+Q 819 2022 819 1478 
+Q 819 1206 870 1001 
+Q 922 797 1022 659 
+Q 1122 522 1267 455 
+Q 1413 388 1600 388 
+Q 1778 388 1912 444 
+Q 2047 500 2145 567 
+Q 2244 634 2311 689 
+Q 2378 744 2416 744 
+Q 2438 744 2453 731 
+Q 2469 719 2480 689 
+Q 2491 659 2495 614 
+Q 2500 569 2500 506 
+z
+" transform="scale(0.015625)"/>
+        <path id="Calibri-70" d="M 3066 1528 
+Q 3066 1159 2986 865 
+Q 2906 572 2751 367 
+Q 2597 163 2369 52 
+Q 2141 -59 1847 -59 
+Q 1722 -59 1615 -34 
+Q 1509 -9 1407 44 
+Q 1306 97 1206 178 
+Q 1106 259 994 369 
+L 994 -1038 
+Q 994 -1063 981 -1081 
+Q 969 -1100 941 -1112 
+Q 913 -1125 863 -1131 
+Q 813 -1138 734 -1138 
+Q 659 -1138 609 -1131 
+Q 559 -1125 529 -1112 
+Q 500 -1100 489 -1081 
+Q 478 -1063 478 -1038 
+L 478 2891 
+Q 478 2919 487 2936 
+Q 497 2953 525 2965 
+Q 553 2978 597 2983 
+Q 641 2988 703 2988 
+Q 769 2988 811 2983 
+Q 853 2978 881 2965 
+Q 909 2953 920 2936 
+Q 931 2919 931 2891 
+L 931 2513 
+Q 1059 2644 1178 2741 
+Q 1297 2838 1417 2902 
+Q 1538 2966 1664 2998 
+Q 1791 3031 1931 3031 
+Q 2238 3031 2453 2912 
+Q 2669 2794 2805 2587 
+Q 2941 2381 3003 2107 
+Q 3066 1834 3066 1528 
+z
+M 2522 1469 
+Q 2522 1684 2489 1886 
+Q 2456 2088 2376 2244 
+Q 2297 2400 2162 2494 
+Q 2028 2588 1828 2588 
+Q 1728 2588 1631 2558 
+Q 1534 2528 1434 2464 
+Q 1334 2400 1225 2295 
+Q 1116 2191 994 2038 
+L 994 919 
+Q 1206 659 1397 521 
+Q 1588 384 1797 384 
+Q 1991 384 2130 478 
+Q 2269 572 2355 728 
+Q 2441 884 2481 1078 
+Q 2522 1272 2522 1469 
+z
+" transform="scale(0.015625)"/>
+        <path id="Calibri-61" d="M 2597 75 
+Q 2597 38 2572 19 
+Q 2547 0 2503 -9 
+Q 2459 -19 2375 -19 
+Q 2294 -19 2245 -9 
+Q 2197 0 2175 19 
+Q 2153 38 2153 75 
+L 2153 356 
+Q 1969 159 1742 50 
+Q 1516 -59 1263 -59 
+Q 1041 -59 861 -1 
+Q 681 56 554 165 
+Q 428 275 358 434 
+Q 288 594 288 797 
+Q 288 1034 384 1209 
+Q 481 1384 662 1500 
+Q 844 1616 1106 1673 
+Q 1369 1731 1697 1731 
+L 2084 1731 
+L 2084 1950 
+Q 2084 2113 2050 2238 
+Q 2016 2363 1939 2445 
+Q 1863 2528 1741 2570 
+Q 1619 2613 1441 2613 
+Q 1250 2613 1098 2567 
+Q 947 2522 833 2467 
+Q 719 2413 642 2367 
+Q 566 2322 528 2322 
+Q 503 2322 484 2334 
+Q 466 2347 452 2372 
+Q 438 2397 431 2436 
+Q 425 2475 425 2522 
+Q 425 2600 436 2645 
+Q 447 2691 489 2731 
+Q 531 2772 634 2826 
+Q 738 2881 872 2926 
+Q 1006 2972 1165 3001 
+Q 1325 3031 1488 3031 
+Q 1791 3031 2003 2962 
+Q 2216 2894 2347 2761 
+Q 2478 2628 2537 2431 
+Q 2597 2234 2597 1972 
+L 2597 75 
+z
+M 2084 1359 
+L 1644 1359 
+Q 1431 1359 1275 1323 
+Q 1119 1288 1016 1217 
+Q 913 1147 864 1048 
+Q 816 950 816 822 
+Q 816 603 955 473 
+Q 1094 344 1344 344 
+Q 1547 344 1720 447 
+Q 1894 550 2084 763 
+L 2084 1359 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Calibri-52"/>
+       <use xlink:href="#Calibri-75" x="54.296875"/>
+       <use xlink:href="#Calibri-74" x="106.835938"/>
+       <use xlink:href="#Calibri-68" x="140.332031"/>
+       <use xlink:href="#Calibri-65" x="192.871094"/>
+       <use xlink:href="#Calibri-72" x="242.626953"/>
+       <use xlink:href="#Calibri-66" x="277.490234"/>
+       <use xlink:href="#Calibri-6f" x="308.007812"/>
+       <use xlink:href="#Calibri-72" x="360.742188"/>
+       <use xlink:href="#Calibri-64" x="395.605469"/>
+       <use xlink:href="#Calibri-20" x="448.144531"/>
+       <use xlink:href="#Calibri-55" x="470.751953"/>
+       <use xlink:href="#Calibri-6e" x="534.912109"/>
+       <use xlink:href="#Calibri-69" x="587.451172"/>
+       <use xlink:href="#Calibri-6e" x="610.400391"/>
+       <use xlink:href="#Calibri-63" x="662.939453"/>
+       <use xlink:href="#Calibri-6f" x="705.224609"/>
+       <use xlink:href="#Calibri-72" x="757.958984"/>
+       <use xlink:href="#Calibri-70" x="792.822266"/>
+       <use xlink:href="#Calibri-6f" x="845.361328"/>
+       <use xlink:href="#Calibri-72" x="898.095703"/>
+       <use xlink:href="#Calibri-61" x="932.958984"/>
+       <use xlink:href="#Calibri-74" x="980.859375"/>
+       <use xlink:href="#Calibri-65" x="1014.355469"/>
+       <use xlink:href="#Calibri-64" x="1064.111328"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m2dc123307e" x="173.208806" y="213.939116" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- Rutherford County -->
+      <g style="fill: #7b7e85" transform="translate(145.592033 289.923829) rotate(-45) scale(0.11 -0.11)">
+       <defs>
         <path id="Calibri-43" d="M 3238 572 
 Q 3238 522 3234 484 
 Q 3231 447 3223 419 
@@ -539,50 +851,6 @@ Q 3178 809 3193 800
 Q 3209 791 3218 764 
 Q 3228 738 3233 691 
 Q 3238 644 3238 572 
-z
-" transform="scale(0.015625)"/>
-        <path id="Calibri-6e" d="M 2900 78 
-Q 2900 53 2887 36 
-Q 2875 19 2847 6 
-Q 2819 -6 2769 -12 
-Q 2719 -19 2644 -19 
-Q 2566 -19 2516 -12 
-Q 2466 -6 2437 6 
-Q 2409 19 2396 36 
-Q 2384 53 2384 78 
-L 2384 1725 
-Q 2384 1966 2346 2112 
-Q 2309 2259 2237 2365 
-Q 2166 2472 2052 2528 
-Q 1938 2584 1788 2584 
-Q 1594 2584 1400 2446 
-Q 1206 2309 994 2044 
-L 994 78 
-Q 994 53 981 36 
-Q 969 19 941 6 
-Q 913 -6 863 -12 
-Q 813 -19 734 -19 
-Q 659 -19 609 -12 
-Q 559 -6 529 6 
-Q 500 19 489 36 
-Q 478 53 478 78 
-L 478 2891 
-Q 478 2916 487 2933 
-Q 497 2950 525 2964 
-Q 553 2978 597 2983 
-Q 641 2988 713 2988 
-Q 781 2988 826 2983 
-Q 872 2978 897 2964 
-Q 922 2950 933 2933 
-Q 944 2916 944 2891 
-L 944 2519 
-Q 1181 2784 1417 2907 
-Q 1653 3031 1894 3031 
-Q 2175 3031 2367 2936 
-Q 2559 2841 2678 2681 
-Q 2797 2522 2848 2308 
-Q 2900 2094 2900 1794 
-L 2900 78 
 z
 " transform="scale(0.015625)"/>
         <path id="Calibri-79" d="M 1759 0 
@@ -639,15 +907,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_2">
-     <g id="line2d_2">
+    <g id="xtick_3">
+     <g id="line2d_3">
       <g>
-       <use xlink:href="#m27e2ee7e07" x="182.947956" y="241.629417" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m2dc123307e" x="228.758032" y="213.939116" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_2">
+     <g id="text_3">
       <!-- Tennessee -->
-      <g style="fill: #7b7e85" transform="translate(168.137826 291.94737) rotate(-45) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(213.947902 264.257068) rotate(-45) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-54" d="M 3072 3813 
 Q 3072 3753 3065 3709 
@@ -759,15 +1027,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_3">
-     <g id="line2d_3">
+    <g id="xtick_4">
+     <g id="line2d_4">
       <g>
-       <use xlink:href="#m27e2ee7e07" x="245.711367" y="241.629417" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m2dc123307e" x="284.307258" y="213.939116" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_3">
+     <g id="text_4">
       <!-- GNRC -->
-      <g style="fill: #7b7e85" transform="translate(238.515341 276.719163) rotate(-45) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(277.111231 249.028861) rotate(-45) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-47" d="M 3575 3494 
 Q 3575 3434 3569 3389 
@@ -885,15 +1153,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_4">
-     <g id="line2d_4">
+    <g id="xtick_5">
+     <g id="line2d_5">
       <g>
-       <use xlink:href="#m27e2ee7e07" x="308.474779" y="241.629417" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m2dc123307e" x="339.856484" y="213.939116" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_4">
+     <g id="text_5">
       <!-- Eagleville -->
-      <g style="fill: #7b7e85" transform="translate(295.699735 287.873551) rotate(-45) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(327.08144 260.18325) rotate(-45) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-45" d="M 2788 222 
 Q 2788 166 2781 123 
@@ -933,63 +1201,6 @@ Q 2703 447 2723 434
 Q 2744 422 2759 395 
 Q 2775 369 2781 326 
 Q 2788 284 2788 222 
-z
-" transform="scale(0.015625)"/>
-        <path id="Calibri-61" d="M 2597 75 
-Q 2597 38 2572 19 
-Q 2547 0 2503 -9 
-Q 2459 -19 2375 -19 
-Q 2294 -19 2245 -9 
-Q 2197 0 2175 19 
-Q 2153 38 2153 75 
-L 2153 356 
-Q 1969 159 1742 50 
-Q 1516 -59 1263 -59 
-Q 1041 -59 861 -1 
-Q 681 56 554 165 
-Q 428 275 358 434 
-Q 288 594 288 797 
-Q 288 1034 384 1209 
-Q 481 1384 662 1500 
-Q 844 1616 1106 1673 
-Q 1369 1731 1697 1731 
-L 2084 1731 
-L 2084 1950 
-Q 2084 2113 2050 2238 
-Q 2016 2363 1939 2445 
-Q 1863 2528 1741 2570 
-Q 1619 2613 1441 2613 
-Q 1250 2613 1098 2567 
-Q 947 2522 833 2467 
-Q 719 2413 642 2367 
-Q 566 2322 528 2322 
-Q 503 2322 484 2334 
-Q 466 2347 452 2372 
-Q 438 2397 431 2436 
-Q 425 2475 425 2522 
-Q 425 2600 436 2645 
-Q 447 2691 489 2731 
-Q 531 2772 634 2826 
-Q 738 2881 872 2926 
-Q 1006 2972 1165 3001 
-Q 1325 3031 1488 3031 
-Q 1791 3031 2003 2962 
-Q 2216 2894 2347 2761 
-Q 2478 2628 2537 2431 
-Q 2597 2234 2597 1972 
-L 2597 75 
-z
-M 2084 1359 
-L 1644 1359 
-Q 1431 1359 1275 1323 
-Q 1119 1288 1016 1217 
-Q 913 1147 864 1048 
-Q 816 950 816 822 
-Q 816 603 955 473 
-Q 1094 344 1344 344 
-Q 1547 344 1720 447 
-Q 1894 550 2084 763 
-L 2084 1359 
 z
 " transform="scale(0.015625)"/>
         <path id="Calibri-67" d="M 2828 2763 
@@ -1132,37 +1343,6 @@ Q 2763 2956 2773 2939
 Q 2784 2922 2784 2897 
 z
 " transform="scale(0.015625)"/>
-        <path id="Calibri-69" d="M 994 78 
-Q 994 53 981 36 
-Q 969 19 941 6 
-Q 913 -6 863 -12 
-Q 813 -19 734 -19 
-Q 659 -19 609 -12 
-Q 559 -6 529 6 
-Q 500 19 489 36 
-Q 478 53 478 78 
-L 478 2891 
-Q 478 2913 489 2931 
-Q 500 2950 529 2962 
-Q 559 2975 609 2981 
-Q 659 2988 734 2988 
-Q 813 2988 863 2981 
-Q 913 2975 941 2962 
-Q 969 2950 981 2931 
-Q 994 2913 994 2891 
-L 994 78 
-z
-M 1053 3841 
-Q 1053 3659 984 3593 
-Q 916 3528 731 3528 
-Q 550 3528 483 3592 
-Q 416 3656 416 3834 
-Q 416 4016 484 4081 
-Q 553 4147 738 4147 
-Q 919 4147 986 4083 
-Q 1053 4019 1053 3841 
-z
-" transform="scale(0.015625)"/>
        </defs>
        <use xlink:href="#Calibri-45"/>
        <use xlink:href="#Calibri-61" x="47.203125"/>
@@ -1177,15 +1357,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_5">
-     <g id="line2d_5">
+    <g id="xtick_6">
+     <g id="line2d_6">
       <g>
-       <use xlink:href="#m27e2ee7e07" x="371.23819" y="241.629417" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m2dc123307e" x="395.40571" y="213.939116" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_5">
+     <g id="text_6">
       <!-- La Vergne -->
-      <g style="fill: #7b7e85" transform="translate(357.504243 289.784065) rotate(-45) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(381.671763 262.093764) rotate(-45) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-4c" d="M 2634 234 
 Q 2634 172 2628 130 
@@ -1259,15 +1439,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_6">
-     <g id="line2d_6">
+    <g id="xtick_7">
+     <g id="line2d_7">
       <g>
-       <use xlink:href="#m27e2ee7e07" x="434.001601" y="241.629417" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m2dc123307e" x="450.954937" y="213.939116" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_6">
+     <g id="text_7">
       <!-- Murfreesboro -->
-      <g style="fill: #7b7e85" transform="translate(413.796577 302.737157) rotate(-45) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(430.749913 275.046855) rotate(-45) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-4d" d="M 4934 81 
 Q 4934 56 4921 37 
@@ -1394,15 +1574,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_7">
-     <g id="line2d_7">
+    <g id="xtick_8">
+     <g id="line2d_8">
       <g>
-       <use xlink:href="#m27e2ee7e07" x="496.765013" y="241.629417" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m2dc123307e" x="506.504163" y="213.939116" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_7">
+     <g id="text_8">
       <!-- Nolensville -->
-      <g style="fill: #7b7e85" transform="translate(481.395826 293.065483) rotate(-45) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(491.134976 265.375181) rotate(-45) scale(0.11 -0.11)">
        <use xlink:href="#Calibri-4e"/>
        <use xlink:href="#Calibri-6f" x="64.550781"/>
        <use xlink:href="#Calibri-6c" x="117.285156"/>
@@ -1417,15 +1597,15 @@ z
       </g>
      </g>
     </g>
-    <g id="xtick_8">
-     <g id="line2d_8">
+    <g id="xtick_9">
+     <g id="line2d_9">
       <g>
-       <use xlink:href="#m27e2ee7e07" x="559.528424" y="241.629417" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m2dc123307e" x="562.053389" y="213.939116" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_8">
+     <g id="text_9">
       <!-- Smyrna -->
-      <g style="fill: #7b7e85" transform="translate(549.565068 282.25382) rotate(-45) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(552.090033 254.563518) rotate(-45) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-53" d="M 2709 1134 
 Q 2709 850 2604 628 
@@ -1570,66 +1750,9 @@ z
       </g>
      </g>
     </g>
-    <g id="text_9">
+    <g id="text_10">
      <!-- Geography -->
      <g style="fill: #00263e" transform="translate(315.338516 341.478906) scale(0.11 -0.11)">
-      <defs>
-       <path id="Calibri-70" d="M 3066 1528 
-Q 3066 1159 2986 865 
-Q 2906 572 2751 367 
-Q 2597 163 2369 52 
-Q 2141 -59 1847 -59 
-Q 1722 -59 1615 -34 
-Q 1509 -9 1407 44 
-Q 1306 97 1206 178 
-Q 1106 259 994 369 
-L 994 -1038 
-Q 994 -1063 981 -1081 
-Q 969 -1100 941 -1112 
-Q 913 -1125 863 -1131 
-Q 813 -1138 734 -1138 
-Q 659 -1138 609 -1131 
-Q 559 -1125 529 -1112 
-Q 500 -1100 489 -1081 
-Q 478 -1063 478 -1038 
-L 478 2891 
-Q 478 2919 487 2936 
-Q 497 2953 525 2965 
-Q 553 2978 597 2983 
-Q 641 2988 703 2988 
-Q 769 2988 811 2983 
-Q 853 2978 881 2965 
-Q 909 2953 920 2936 
-Q 931 2919 931 2891 
-L 931 2513 
-Q 1059 2644 1178 2741 
-Q 1297 2838 1417 2902 
-Q 1538 2966 1664 2998 
-Q 1791 3031 1931 3031 
-Q 2238 3031 2453 2912 
-Q 2669 2794 2805 2587 
-Q 2941 2381 3003 2107 
-Q 3066 1834 3066 1528 
-z
-M 2522 1469 
-Q 2522 1684 2489 1886 
-Q 2456 2088 2376 2244 
-Q 2297 2400 2162 2494 
-Q 2028 2588 1828 2588 
-Q 1728 2588 1631 2558 
-Q 1534 2528 1434 2464 
-Q 1334 2400 1225 2295 
-Q 1116 2191 994 2038 
-L 994 919 
-Q 1206 659 1397 521 
-Q 1588 384 1797 384 
-Q 1991 384 2130 478 
-Q 2269 572 2355 728 
-Q 2441 884 2481 1078 
-Q 2522 1272 2522 1469 
-z
-" transform="scale(0.015625)"/>
-      </defs>
       <use xlink:href="#Calibri-47"/>
       <use xlink:href="#Calibri-65" x="63.085938"/>
       <use xlink:href="#Calibri-6f" x="112.841797"/>
@@ -1644,19 +1767,19 @@ z
    </g>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
-     <g id="line2d_9">
+     <g id="line2d_10">
       <defs>
-       <path id="md1732e2555" d="M 0 0 
+       <path id="m4cca9e8b6c" d="M 0 0 
 L -6 0 
 " style="stroke: #7b7e85; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#md1732e2555" x="74.053438" y="241.629417" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m4cca9e8b6c" x="74.053438" y="213.939116" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_10">
+     <g id="text_11">
       <!-- 0% -->
-      <g style="fill: #7b7e85" transform="translate(51.114531 245.370277) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(51.114531 217.679975) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-30" d="M 3022 2031 
 Q 3022 1566 2948 1181 
@@ -1799,14 +1922,14 @@ z
      </g>
     </g>
     <g id="ytick_2">
-     <g id="line2d_10">
+     <g id="line2d_11">
       <g>
-       <use xlink:href="#md1732e2555" x="74.053438" y="209.064348" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m4cca9e8b6c" x="74.053438" y="185.833969" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_11">
+     <g id="text_12">
       <!-- 200% -->
-      <g style="fill: #7b7e85" transform="translate(39.963281 212.805207) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(39.963281 189.574828) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-32" d="M 2888 231 
 Q 2888 175 2880 131 
@@ -1872,14 +1995,14 @@ z
      </g>
     </g>
     <g id="ytick_3">
-     <g id="line2d_11">
+     <g id="line2d_12">
       <g>
-       <use xlink:href="#md1732e2555" x="74.053438" y="176.499279" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m4cca9e8b6c" x="74.053438" y="157.728822" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_12">
+     <g id="text_13">
       <!-- 400% -->
-      <g style="fill: #7b7e85" transform="translate(39.963281 180.240138) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(39.963281 161.469681) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-34" d="M 3059 1150 
 Q 3059 1047 3028 987 
@@ -1934,14 +2057,14 @@ z
      </g>
     </g>
     <g id="ytick_4">
-     <g id="line2d_12">
+     <g id="line2d_13">
       <g>
-       <use xlink:href="#md1732e2555" x="74.053438" y="143.934209" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m4cca9e8b6c" x="74.053438" y="129.623675" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_13">
+     <g id="text_14">
       <!-- 600% -->
-      <g style="fill: #7b7e85" transform="translate(39.963281 147.675069) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(39.963281 133.364535) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-36" d="M 2991 1309 
 Q 2991 1044 2909 795 
@@ -2017,14 +2140,14 @@ z
      </g>
     </g>
     <g id="ytick_5">
-     <g id="line2d_13">
+     <g id="line2d_14">
       <g>
-       <use xlink:href="#md1732e2555" x="74.053438" y="111.36914" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m4cca9e8b6c" x="74.053438" y="101.518528" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_14">
+     <g id="text_15">
       <!-- 800% -->
-      <g style="fill: #7b7e85" transform="translate(39.963281 115.109999) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(39.963281 105.259388) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-38" d="M 2981 1038 
 Q 2981 775 2887 570 
@@ -2098,14 +2221,14 @@ z
      </g>
     </g>
     <g id="ytick_6">
-     <g id="line2d_14">
+     <g id="line2d_15">
       <g>
-       <use xlink:href="#md1732e2555" x="74.053438" y="78.80407" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m4cca9e8b6c" x="74.053438" y="73.413381" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_15">
+     <g id="text_16">
       <!-- 1,000% -->
-      <g style="fill: #7b7e85" transform="translate(31.642812 82.54493) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(31.642812 77.154241) scale(0.11 -0.11)">
        <defs>
         <path id="Calibri-31" d="M 2897 213 
 Q 2897 153 2887 112 
@@ -2186,14 +2309,14 @@ z
      </g>
     </g>
     <g id="ytick_7">
-     <g id="line2d_15">
+     <g id="line2d_16">
       <g>
-       <use xlink:href="#md1732e2555" x="74.053438" y="46.239001" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
+       <use xlink:href="#m4cca9e8b6c" x="74.053438" y="45.308234" style="fill: #7b7e85; stroke: #7b7e85; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_16">
+     <g id="text_17">
       <!-- 1,200% -->
-      <g style="fill: #7b7e85" transform="translate(31.642812 49.97986) scale(0.11 -0.11)">
+      <g style="fill: #7b7e85" transform="translate(31.642812 49.049094) scale(0.11 -0.11)">
        <use xlink:href="#Calibri-31"/>
        <use xlink:href="#Calibri-2c" x="50.683594"/>
        <use xlink:href="#Calibri-32" x="75.634766"/>
@@ -2203,9 +2326,9 @@ z
       </g>
      </g>
     </g>
-    <g id="text_17">
+    <g id="text_18">
      <!-- Percent Change in Population -->
-     <g style="fill: #00263e" transform="translate(14.681719 206.695959) rotate(-90) scale(0.11 -0.11)">
+     <g style="fill: #00263e" transform="translate(14.681719 192.850808) rotate(-90) scale(0.11 -0.11)">
       <defs>
        <path id="Calibri-50" d="M 3022 2859 
 Q 3022 2556 2922 2312 
@@ -2247,53 +2370,6 @@ Q 2344 2325 2400 2479
 Q 2456 2634 2456 2816 
 z
 " transform="scale(0.015625)"/>
-       <path id="Calibri-63" d="M 2500 506 
-Q 2500 453 2497 414 
-Q 2494 375 2486 348 
-Q 2478 322 2467 301 
-Q 2456 281 2417 242 
-Q 2378 203 2284 145 
-Q 2191 88 2073 42 
-Q 1956 -3 1818 -31 
-Q 1681 -59 1534 -59 
-Q 1231 -59 997 41 
-Q 763 141 605 333 
-Q 447 525 364 804 
-Q 281 1084 281 1450 
-Q 281 1866 382 2164 
-Q 484 2463 661 2653 
-Q 838 2844 1077 2936 
-Q 1316 3028 1594 3028 
-Q 1728 3028 1854 3003 
-Q 1981 2978 2087 2937 
-Q 2194 2897 2276 2844 
-Q 2359 2791 2396 2753 
-Q 2434 2716 2448 2694 
-Q 2463 2672 2472 2642 
-Q 2481 2613 2484 2575 
-Q 2488 2538 2488 2481 
-Q 2488 2359 2459 2311 
-Q 2431 2263 2391 2263 
-Q 2344 2263 2283 2314 
-Q 2222 2366 2128 2428 
-Q 2034 2491 1901 2542 
-Q 1769 2594 1588 2594 
-Q 1216 2594 1017 2308 
-Q 819 2022 819 1478 
-Q 819 1206 870 1001 
-Q 922 797 1022 659 
-Q 1122 522 1267 455 
-Q 1413 388 1600 388 
-Q 1778 388 1912 444 
-Q 2047 500 2145 567 
-Q 2244 634 2311 689 
-Q 2378 744 2416 744 
-Q 2438 744 2453 731 
-Q 2469 719 2480 689 
-Q 2491 659 2495 614 
-Q 2500 569 2500 506 
-z
-" transform="scale(0.015625)"/>
       </defs>
       <use xlink:href="#Calibri-50"/>
       <use xlink:href="#Calibri-65" x="51.660156"/>
@@ -2327,160 +2403,184 @@ z
     </g>
    </g>
    <g id="patch_3">
-    <path d="M 98.217351 241.629417 
-L 120.184545 241.629417 
-L 120.184545 227.364946 
-L 98.217351 227.364946 
+    <path d="M 98.217351 213.939116 
+L 117.65958 213.939116 
+L 117.65958 208.270237 
+L 98.217351 208.270237 
 z
-" clip-path="url(#pde29813b47)" style="fill: #064460"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #064460"/>
    </g>
    <g id="patch_4">
-    <path d="M 160.980762 241.629417 
-L 182.947956 241.629417 
-L 182.947956 238.133363 
-L 160.980762 238.133363 
+    <path d="M 153.766577 213.939116 
+L 173.208806 213.939116 
+L 173.208806 201.628224 
+L 153.766577 201.628224 
 z
-" clip-path="url(#pde29813b47)" style="fill: #064460"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #064460"/>
    </g>
    <g id="patch_5">
-    <path d="M 223.744173 241.629417 
-L 245.711367 241.629417 
-L 245.711367 233.807284 
-L 223.744173 233.807284 
+    <path d="M 209.315803 213.939116 
+L 228.758032 213.939116 
+L 228.758032 210.921861 
+L 209.315803 210.921861 
 z
-" clip-path="url(#pde29813b47)" style="fill: #064460"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #064460"/>
    </g>
    <g id="patch_6">
-    <path d="M 286.507585 241.629417 
-L 308.474779 241.629417 
-L 308.474779 229.382425 
-L 286.507585 229.382425 
+    <path d="M 264.865029 213.939116 
+L 284.307258 213.939116 
+L 284.307258 207.188257 
+L 264.865029 207.188257 
 z
-" clip-path="url(#pde29813b47)" style="fill: #064460"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #064460"/>
    </g>
    <g id="patch_7">
-    <path d="M 349.270996 241.629417 
-L 371.23819 241.629417 
-L 371.23819 224.174945 
-L 349.270996 224.174945 
+    <path d="M 320.414255 213.939116 
+L 339.856484 213.939116 
+L 339.856484 203.3694 
+L 320.414255 203.3694 
 z
-" clip-path="url(#pde29813b47)" style="fill: #064460"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #064460"/>
    </g>
    <g id="patch_8">
-    <path d="M 412.034407 241.629417 
-L 434.001601 241.629417 
-L 434.001601 221.765321 
-L 412.034407 221.765321 
+    <path d="M 375.963481 213.939116 
+L 395.40571 213.939116 
+L 395.40571 198.875106 
+L 375.963481 198.875106 
 z
-" clip-path="url(#pde29813b47)" style="fill: #064460"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #064460"/>
    </g>
    <g id="patch_9">
-    <path d="M 474.797819 241.629417 
-L 496.765013 241.629417 
-L 496.765013 185.252652 
-L 474.797819 185.252652 
+    <path d="M 431.512707 213.939116 
+L 450.954937 213.939116 
+L 450.954937 196.795491 
+L 431.512707 196.795491 
 z
-" clip-path="url(#pde29813b47)" style="fill: #064460"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #064460"/>
    </g>
    <g id="patch_10">
-    <path d="M 537.56123 241.629417 
-L 559.528424 241.629417 
-L 559.528424 224.11657 
-L 537.56123 224.11657 
+    <path d="M 487.061934 213.939116 
+L 506.504163 213.939116 
+L 506.504163 165.283384 
+L 487.061934 165.283384 
 z
-" clip-path="url(#pde29813b47)" style="fill: #064460"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #064460"/>
    </g>
    <g id="patch_11">
-    <path d="M 120.184545 241.629417 
-L 142.151739 241.629417 
-L 142.151739 191.3428 
-L 120.184545 191.3428 
+    <path d="M 542.61116 213.939116 
+L 562.053389 213.939116 
+L 562.053389 198.824726 
+L 542.61116 198.824726 
 z
-" clip-path="url(#pde29813b47)" style="fill: #d6d0d3"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #064460"/>
    </g>
    <g id="patch_12">
-    <path d="M 182.947956 241.629417 
-L 204.91515 241.629417 
-L 204.91515 220.512116 
-L 182.947956 220.512116 
+    <path d="M 117.65958 213.939116 
+L 137.101809 213.939116 
+L 137.101809 180.82067 
+L 117.65958 180.82067 
 z
-" clip-path="url(#pde29813b47)" style="fill: #d6d0d3"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #d6d0d3"/>
    </g>
    <g id="patch_13">
-    <path d="M 245.711367 241.629417 
-L 267.678561 241.629417 
-L 267.678561 213.162017 
-L 245.711367 213.162017 
+    <path d="M 173.208806 213.939116 
+L 192.651035 213.939116 
+L 192.651035 170.539461 
+L 173.208806 170.539461 
 z
-" clip-path="url(#pde29813b47)" style="fill: #d6d0d3"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #d6d0d3"/>
    </g>
    <g id="patch_14">
-    <path d="M 308.474779 241.629417 
-L 330.441973 241.629417 
-L 330.441973 168.358011 
-L 308.474779 168.358011 
+    <path d="M 228.758032 213.939116 
+L 248.200261 213.939116 
+L 248.200261 195.713917 
+L 228.758032 195.713917 
 z
-" clip-path="url(#pde29813b47)" style="fill: #d6d0d3"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #d6d0d3"/>
    </g>
    <g id="patch_15">
-    <path d="M 371.23819 241.629417 
-L 393.205384 241.629417 
-L 393.205384 89.528085 
-L 371.23819 89.528085 
+    <path d="M 284.307258 213.939116 
+L 303.749487 213.939116 
+L 303.749487 189.370445 
+L 284.307258 189.370445 
 z
-" clip-path="url(#pde29813b47)" style="fill: #d6d0d3"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #d6d0d3"/>
    </g>
    <g id="patch_16">
-    <path d="M 434.001601 241.629417 
-L 455.968795 241.629417 
-L 455.968795 211.191302 
-L 434.001601 211.191302 
+    <path d="M 339.856484 213.939116 
+L 359.298714 213.939116 
+L 359.298714 150.702535 
+L 339.856484 150.702535 
 z
-" clip-path="url(#pde29813b47)" style="fill: #d6d0d3"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #d6d0d3"/>
    </g>
    <g id="patch_17">
-    <path d="M 496.765013 241.629417 
-L 518.732207 241.629417 
-L 518.732207 49.070746 
-L 496.765013 49.070746 
+    <path d="M 395.40571 213.939116 
+L 414.84794 213.939116 
+L 414.84794 82.668697 
+L 395.40571 82.668697 
 z
-" clip-path="url(#pde29813b47)" style="fill: #d6d0d3"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #d6d0d3"/>
    </g>
    <g id="patch_18">
-    <path d="M 559.528424 241.629417 
-L 581.495618 241.629417 
-L 581.495618 169.914633 
-L 559.528424 169.914633 
+    <path d="M 450.954937 213.939116 
+L 470.397166 213.939116 
+L 470.397166 187.669628 
+L 450.954937 187.669628 
 z
-" clip-path="url(#pde29813b47)" style="fill: #d6d0d3"/>
+" clip-path="url(#pe97abd41d9)" style="fill: #d6d0d3"/>
    </g>
-   <g id="text_18">
+   <g id="patch_19">
+    <path d="M 506.504163 213.939116 
+L 525.946392 213.939116 
+L 525.946392 47.75216 
+L 506.504163 47.75216 
+z
+" clip-path="url(#pe97abd41d9)" style="fill: #d6d0d3"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 562.053389 213.939116 
+L 581.495618 213.939116 
+L 581.495618 152.045971 
+L 562.053389 152.045971 
+z
+" clip-path="url(#pe97abd41d9)" style="fill: #d6d0d3"/>
+   </g>
+   <g id="text_19">
+    <!-- 40% -->
+    <g style="fill: #00263e" transform="translate(96.016611 202.270237) scale(0.1 -0.1)">
+     <use xlink:href="#Calibri-34"/>
+     <use xlink:href="#Calibri-30" x="50.683594"/>
+     <use xlink:href="#Calibri-25" x="101.367188"/>
+    </g>
+   </g>
+   <g id="text_20">
     <!-- 88% -->
-    <g style="fill: #00263e" transform="translate(98.541576 221.364946) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(151.565837 195.628224) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-38"/>
      <use xlink:href="#Calibri-38" x="50.683594"/>
      <use xlink:href="#Calibri-25" x="101.367188"/>
     </g>
    </g>
-   <g id="text_19">
+   <g id="text_21">
     <!-- 21% -->
-    <g style="fill: #00263e" transform="translate(161.304987 232.133363) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(207.115063 204.921861) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-32"/>
      <use xlink:href="#Calibri-31" x="50.683594"/>
      <use xlink:href="#Calibri-25" x="101.367188"/>
     </g>
    </g>
-   <g id="text_20">
+   <g id="text_22">
     <!-- 48% -->
-    <g style="fill: #00263e" transform="translate(224.068399 227.807284) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(262.66429 201.188257) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-34"/>
      <use xlink:href="#Calibri-38" x="50.683594"/>
      <use xlink:href="#Calibri-25" x="101.367188"/>
     </g>
    </g>
-   <g id="text_21">
+   <g id="text_23">
     <!-- 75% -->
-    <g style="fill: #00263e" transform="translate(286.83181 223.382425) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(318.213516 197.3694) scale(0.1 -0.1)">
      <defs>
       <path id="Calibri-37" d="M 2947 3813 
 Q 2947 3756 2942 3711 
@@ -2570,27 +2670,27 @@ z
      <use xlink:href="#Calibri-25" x="101.367188"/>
     </g>
    </g>
-   <g id="text_22">
+   <g id="text_24">
     <!-- 107% -->
-    <g style="fill: #00263e" transform="translate(347.060846 218.174945) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(371.228367 192.875106) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-31"/>
      <use xlink:href="#Calibri-30" x="50.683594"/>
      <use xlink:href="#Calibri-37" x="101.367188"/>
      <use xlink:href="#Calibri-25" x="152.050781"/>
     </g>
    </g>
-   <g id="text_23">
+   <g id="text_25">
     <!-- 122% -->
-    <g style="fill: #00263e" transform="translate(409.824258 215.765321) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(426.777593 190.795491) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-31"/>
      <use xlink:href="#Calibri-32" x="50.683594"/>
      <use xlink:href="#Calibri-32" x="101.367188"/>
      <use xlink:href="#Calibri-25" x="152.050781"/>
     </g>
    </g>
-   <g id="text_24">
+   <g id="text_26">
     <!-- 346% -->
-    <g style="fill: #00263e" transform="translate(472.587669 179.252652) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(482.326819 159.283384) scale(0.1 -0.1)">
      <defs>
       <path id="Calibri-33" d="M 2856 1156 
 Q 2856 878 2759 654 
@@ -2675,18 +2775,27 @@ z
      <use xlink:href="#Calibri-25" x="152.050781"/>
     </g>
    </g>
-   <g id="text_25">
+   <g id="text_27">
     <!-- 108% -->
-    <g style="fill: #00263e" transform="translate(535.35108 218.11657) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(537.876045 192.824726) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-31"/>
      <use xlink:href="#Calibri-30" x="50.683594"/>
      <use xlink:href="#Calibri-38" x="101.367188"/>
      <use xlink:href="#Calibri-25" x="152.050781"/>
     </g>
    </g>
-   <g id="text_26">
+   <g id="text_28">
+    <!-- 236% -->
+    <g style="fill: #00263e" transform="translate(119.482236 174.82067) scale(0.1 -0.1)">
+     <use xlink:href="#Calibri-32"/>
+     <use xlink:href="#Calibri-33" x="50.683594"/>
+     <use xlink:href="#Calibri-36" x="101.367188"/>
+     <use xlink:href="#Calibri-25" x="152.050781"/>
+    </g>
+   </g>
+   <g id="text_29">
     <!-- 309% -->
-    <g style="fill: #00263e" transform="translate(122.007201 185.3428) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(175.031462 164.539461) scale(0.1 -0.1)">
      <defs>
       <path id="Calibri-39" d="M 2919 2181 
 Q 2919 1919 2887 1650 
@@ -2754,54 +2863,54 @@ z
      <use xlink:href="#Calibri-25" x="152.050781"/>
     </g>
    </g>
-   <g id="text_27">
+   <g id="text_30">
     <!-- 130% -->
-    <g style="fill: #00263e" transform="translate(184.770612 214.512116) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(230.580688 189.713917) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-31"/>
      <use xlink:href="#Calibri-33" x="50.683594"/>
      <use xlink:href="#Calibri-30" x="101.367188"/>
      <use xlink:href="#Calibri-25" x="152.050781"/>
     </g>
    </g>
-   <g id="text_28">
+   <g id="text_31">
     <!-- 175% -->
-    <g style="fill: #00263e" transform="translate(247.534024 207.162017) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(286.129915 183.370445) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-31"/>
      <use xlink:href="#Calibri-37" x="50.683594"/>
      <use xlink:href="#Calibri-35" x="101.367188"/>
      <use xlink:href="#Calibri-25" x="152.050781"/>
     </g>
    </g>
-   <g id="text_29">
+   <g id="text_32">
     <!-- 450% -->
-    <g style="fill: #00263e" transform="translate(310.297435 162.358011) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(341.679141 144.702535) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-34"/>
      <use xlink:href="#Calibri-35" x="50.683594"/>
      <use xlink:href="#Calibri-30" x="101.367188"/>
      <use xlink:href="#Calibri-25" x="152.050781"/>
     </g>
    </g>
-   <g id="text_30">
+   <g id="text_33">
     <!-- 934% -->
-    <g style="fill: #00263e" transform="translate(373.060846 83.528085) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(397.228367 76.668697) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-39"/>
      <use xlink:href="#Calibri-33" x="50.683594"/>
      <use xlink:href="#Calibri-34" x="101.367188"/>
      <use xlink:href="#Calibri-25" x="152.050781"/>
     </g>
    </g>
-   <g id="text_31">
+   <g id="text_34">
     <!-- 187% -->
-    <g style="fill: #00263e" transform="translate(435.824258 205.191302) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(452.777593 181.669628) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-31"/>
      <use xlink:href="#Calibri-38" x="50.683594"/>
      <use xlink:href="#Calibri-37" x="101.367188"/>
      <use xlink:href="#Calibri-25" x="152.050781"/>
     </g>
    </g>
-   <g id="text_32">
+   <g id="text_35">
     <!-- 1,183% -->
-    <g style="fill: #00263e" transform="translate(494.805638 43.070746) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(504.544788 41.75216) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-31"/>
      <use xlink:href="#Calibri-2c" x="50.683594"/>
      <use xlink:href="#Calibri-31" x="75.634766"/>
@@ -2810,18 +2919,18 @@ z
      <use xlink:href="#Calibri-25" x="227.685547"/>
     </g>
    </g>
-   <g id="text_33">
+   <g id="text_36">
     <!-- 440% -->
-    <g style="fill: #00263e" transform="translate(561.35108 163.914633) scale(0.1 -0.1)">
+    <g style="fill: #00263e" transform="translate(563.876045 146.045971) scale(0.1 -0.1)">
      <use xlink:href="#Calibri-34"/>
      <use xlink:href="#Calibri-34" x="50.683594"/>
      <use xlink:href="#Calibri-30" x="101.367188"/>
      <use xlink:href="#Calibri-25" x="152.050781"/>
     </g>
    </g>
-   <g id="text_34">
-    <!-- Percent Change in Total and Foreign Born Population 2000-2021 -->
-    <g style="fill: #00263e" transform="translate(104.963516 19.442812) scale(0.18 -0.18)">
+   <g id="text_37">
+    <!-- Comparative Percent Change in Total and Foreign Born Population 2000-2021 -->
+    <g style="fill: #00263e" transform="translate(56.079453 19.442812) scale(0.18 -0.18)">
      <defs>
       <path id="Calibri-46" d="M 2663 3813 
 Q 2663 3753 2656 3709 
@@ -2929,71 +3038,83 @@ Q 1744 1638 1744 1578
 z
 " transform="scale(0.015625)"/>
      </defs>
-     <use xlink:href="#Calibri-50"/>
-     <use xlink:href="#Calibri-65" x="51.660156"/>
-     <use xlink:href="#Calibri-72" x="101.416016"/>
-     <use xlink:href="#Calibri-63" x="136.279297"/>
-     <use xlink:href="#Calibri-65" x="178.564453"/>
-     <use xlink:href="#Calibri-6e" x="228.320312"/>
-     <use xlink:href="#Calibri-74" x="280.859375"/>
-     <use xlink:href="#Calibri-20" x="314.355469"/>
-     <use xlink:href="#Calibri-43" x="336.962891"/>
-     <use xlink:href="#Calibri-68" x="390.283203"/>
-     <use xlink:href="#Calibri-61" x="442.822266"/>
-     <use xlink:href="#Calibri-6e" x="490.722656"/>
-     <use xlink:href="#Calibri-67" x="543.261719"/>
-     <use xlink:href="#Calibri-65" x="590.332031"/>
-     <use xlink:href="#Calibri-20" x="640.087891"/>
-     <use xlink:href="#Calibri-69" x="662.695312"/>
-     <use xlink:href="#Calibri-6e" x="685.644531"/>
-     <use xlink:href="#Calibri-20" x="738.183594"/>
-     <use xlink:href="#Calibri-54" x="760.791016"/>
-     <use xlink:href="#Calibri-6f" x="809.521484"/>
-     <use xlink:href="#Calibri-74" x="862.255859"/>
-     <use xlink:href="#Calibri-61" x="895.751953"/>
-     <use xlink:href="#Calibri-6c" x="943.652344"/>
-     <use xlink:href="#Calibri-20" x="966.601562"/>
-     <use xlink:href="#Calibri-61" x="989.208984"/>
-     <use xlink:href="#Calibri-6e" x="1037.109375"/>
-     <use xlink:href="#Calibri-64" x="1089.648438"/>
-     <use xlink:href="#Calibri-20" x="1142.1875"/>
-     <use xlink:href="#Calibri-46" x="1164.794922"/>
-     <use xlink:href="#Calibri-6f" x="1209.367188"/>
-     <use xlink:href="#Calibri-72" x="1262.101562"/>
-     <use xlink:href="#Calibri-65" x="1296.964844"/>
-     <use xlink:href="#Calibri-69" x="1346.720703"/>
-     <use xlink:href="#Calibri-67" x="1369.669922"/>
-     <use xlink:href="#Calibri-6e" x="1416.740234"/>
-     <use xlink:href="#Calibri-20" x="1469.279297"/>
-     <use xlink:href="#Calibri-42" x="1491.886719"/>
-     <use xlink:href="#Calibri-6f" x="1546.28125"/>
-     <use xlink:href="#Calibri-72" x="1599.015625"/>
-     <use xlink:href="#Calibri-6e" x="1633.878906"/>
-     <use xlink:href="#Calibri-20" x="1686.417969"/>
-     <use xlink:href="#Calibri-50" x="1709.025391"/>
-     <use xlink:href="#Calibri-6f" x="1760.685547"/>
-     <use xlink:href="#Calibri-70" x="1813.419922"/>
-     <use xlink:href="#Calibri-75" x="1865.958984"/>
-     <use xlink:href="#Calibri-6c" x="1918.498047"/>
-     <use xlink:href="#Calibri-61" x="1941.447266"/>
-     <use xlink:href="#Calibri-74" x="1989.347656"/>
-     <use xlink:href="#Calibri-69" x="2022.84375"/>
-     <use xlink:href="#Calibri-6f" x="2045.792969"/>
-     <use xlink:href="#Calibri-6e" x="2098.527344"/>
-     <use xlink:href="#Calibri-20" x="2151.066406"/>
-     <use xlink:href="#Calibri-32" x="2173.673828"/>
-     <use xlink:href="#Calibri-30" x="2224.357422"/>
-     <use xlink:href="#Calibri-30" x="2275.041016"/>
-     <use xlink:href="#Calibri-30" x="2325.724609"/>
-     <use xlink:href="#Calibri-2d" x="2376.408203"/>
-     <use xlink:href="#Calibri-32" x="2407.023438"/>
-     <use xlink:href="#Calibri-30" x="2457.707031"/>
-     <use xlink:href="#Calibri-32" x="2508.390625"/>
-     <use xlink:href="#Calibri-31" x="2559.074219"/>
+     <use xlink:href="#Calibri-43"/>
+     <use xlink:href="#Calibri-6f" x="53.320312"/>
+     <use xlink:href="#Calibri-6d" x="106.054688"/>
+     <use xlink:href="#Calibri-70" x="185.9375"/>
+     <use xlink:href="#Calibri-61" x="238.476562"/>
+     <use xlink:href="#Calibri-72" x="286.376953"/>
+     <use xlink:href="#Calibri-61" x="321.240234"/>
+     <use xlink:href="#Calibri-74" x="369.140625"/>
+     <use xlink:href="#Calibri-69" x="402.636719"/>
+     <use xlink:href="#Calibri-76" x="425.585938"/>
+     <use xlink:href="#Calibri-65" x="470.751953"/>
+     <use xlink:href="#Calibri-20" x="520.507812"/>
+     <use xlink:href="#Calibri-50" x="543.115234"/>
+     <use xlink:href="#Calibri-65" x="594.775391"/>
+     <use xlink:href="#Calibri-72" x="644.53125"/>
+     <use xlink:href="#Calibri-63" x="679.394531"/>
+     <use xlink:href="#Calibri-65" x="721.679688"/>
+     <use xlink:href="#Calibri-6e" x="771.435547"/>
+     <use xlink:href="#Calibri-74" x="823.974609"/>
+     <use xlink:href="#Calibri-20" x="857.470703"/>
+     <use xlink:href="#Calibri-43" x="880.078125"/>
+     <use xlink:href="#Calibri-68" x="933.398438"/>
+     <use xlink:href="#Calibri-61" x="985.9375"/>
+     <use xlink:href="#Calibri-6e" x="1033.837891"/>
+     <use xlink:href="#Calibri-67" x="1086.376953"/>
+     <use xlink:href="#Calibri-65" x="1133.447266"/>
+     <use xlink:href="#Calibri-20" x="1183.203125"/>
+     <use xlink:href="#Calibri-69" x="1205.810547"/>
+     <use xlink:href="#Calibri-6e" x="1228.759766"/>
+     <use xlink:href="#Calibri-20" x="1281.298828"/>
+     <use xlink:href="#Calibri-54" x="1303.90625"/>
+     <use xlink:href="#Calibri-6f" x="1352.636719"/>
+     <use xlink:href="#Calibri-74" x="1405.371094"/>
+     <use xlink:href="#Calibri-61" x="1438.867188"/>
+     <use xlink:href="#Calibri-6c" x="1486.767578"/>
+     <use xlink:href="#Calibri-20" x="1509.716797"/>
+     <use xlink:href="#Calibri-61" x="1532.324219"/>
+     <use xlink:href="#Calibri-6e" x="1580.224609"/>
+     <use xlink:href="#Calibri-64" x="1632.763672"/>
+     <use xlink:href="#Calibri-20" x="1685.302734"/>
+     <use xlink:href="#Calibri-46" x="1707.910156"/>
+     <use xlink:href="#Calibri-6f" x="1752.482422"/>
+     <use xlink:href="#Calibri-72" x="1805.216797"/>
+     <use xlink:href="#Calibri-65" x="1840.080078"/>
+     <use xlink:href="#Calibri-69" x="1889.835938"/>
+     <use xlink:href="#Calibri-67" x="1912.785156"/>
+     <use xlink:href="#Calibri-6e" x="1959.855469"/>
+     <use xlink:href="#Calibri-20" x="2012.394531"/>
+     <use xlink:href="#Calibri-42" x="2035.001953"/>
+     <use xlink:href="#Calibri-6f" x="2089.396484"/>
+     <use xlink:href="#Calibri-72" x="2142.130859"/>
+     <use xlink:href="#Calibri-6e" x="2176.994141"/>
+     <use xlink:href="#Calibri-20" x="2229.533203"/>
+     <use xlink:href="#Calibri-50" x="2252.140625"/>
+     <use xlink:href="#Calibri-6f" x="2303.800781"/>
+     <use xlink:href="#Calibri-70" x="2356.535156"/>
+     <use xlink:href="#Calibri-75" x="2409.074219"/>
+     <use xlink:href="#Calibri-6c" x="2461.613281"/>
+     <use xlink:href="#Calibri-61" x="2484.5625"/>
+     <use xlink:href="#Calibri-74" x="2532.462891"/>
+     <use xlink:href="#Calibri-69" x="2565.958984"/>
+     <use xlink:href="#Calibri-6f" x="2588.908203"/>
+     <use xlink:href="#Calibri-6e" x="2641.642578"/>
+     <use xlink:href="#Calibri-20" x="2694.181641"/>
+     <use xlink:href="#Calibri-32" x="2716.789062"/>
+     <use xlink:href="#Calibri-30" x="2767.472656"/>
+     <use xlink:href="#Calibri-30" x="2818.15625"/>
+     <use xlink:href="#Calibri-30" x="2868.839844"/>
+     <use xlink:href="#Calibri-2d" x="2919.523438"/>
+     <use xlink:href="#Calibri-32" x="2950.138672"/>
+     <use xlink:href="#Calibri-30" x="3000.822266"/>
+     <use xlink:href="#Calibri-32" x="3051.505859"/>
+     <use xlink:href="#Calibri-31" x="3102.189453"/>
     </g>
    </g>
    <g id="legend_1">
-    <g id="patch_19">
+    <g id="patch_21">
      <path d="M 610.24347 57.042812 
 L 632.24347 57.042812 
 L 632.24347 49.342812 
@@ -3001,7 +3122,7 @@ L 610.24347 49.342812
 z
 " style="fill: #064460"/>
     </g>
-    <g id="text_35">
+    <g id="text_38">
      <!-- Total -->
      <g style="fill: #00263e" transform="translate(641.04347 57.042812) scale(0.11 -0.11)">
       <use xlink:href="#Calibri-54"/>
@@ -3011,7 +3132,7 @@ z
       <use xlink:href="#Calibri-6c" x="182.861328"/>
      </g>
     </g>
-    <g id="patch_20">
+    <g id="patch_22">
      <path d="M 610.24347 72.19875 
 L 632.24347 72.19875 
 L 632.24347 64.49875 
@@ -3019,7 +3140,7 @@ L 610.24347 64.49875
 z
 " style="fill: #d6d0d3"/>
     </g>
-    <g id="text_36">
+    <g id="text_39">
      <!-- Foreign-Born -->
      <g style="fill: #00263e" transform="translate(641.04347 72.19875) scale(0.11 -0.11)">
       <use xlink:href="#Calibri-46"/>
@@ -3040,8 +3161,8 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pde29813b47">
-   <rect x="74.053438" y="39.442812" width="531.606094" height="202.186605"/>
+  <clipPath id="pe97abd41d9">
+   <rect x="74.053438" y="39.442812" width="531.606094" height="174.496303"/>
   </clipPath>
  </defs>
 </svg>

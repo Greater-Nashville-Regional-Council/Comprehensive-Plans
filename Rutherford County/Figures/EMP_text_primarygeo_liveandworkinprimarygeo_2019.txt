@@ -1,2 +1,2 @@
-0    43.249371
-Name: Percent of Resident Workforce, dtype: float64This is the percent of workers living in the primary geography that also work in the geography.
+0    5.494649
+Name: Percent of Resident Workforce, dtype: float64This is the percent of workers living in the unincorporated county that work in the unincorporated county.

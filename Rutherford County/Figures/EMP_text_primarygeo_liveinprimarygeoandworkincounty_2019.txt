@@ -1,0 +1,2 @@
+0    47.307272
+Name: Percent of Resident Workforce, dtype: float64This is the percent of workers living in the unincorporated county that work in the county.
